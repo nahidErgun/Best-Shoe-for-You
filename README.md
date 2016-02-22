@@ -4,6 +4,7 @@
   
   
 # DEVELOPMENT STEPS
-  -Take the data from a shopping site
-  -Label positive and negative comments
-  -Find the best brand
+  
+-Take the data from a shopping site
+-Label positive and negative comments
+-Find the best brand
