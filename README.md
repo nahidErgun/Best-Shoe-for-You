@@ -7,4 +7,5 @@
   
 * Take the data from a shopping site
 * Label positive and negative comments
+* Use NLTK tool
 * Find the best brand
