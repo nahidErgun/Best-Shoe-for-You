@@ -12,7 +12,7 @@
 * Suggest the best brand
 
 ## Requirements 
-   [ NLTK ]
+   [NLTK]
 ## Run
-   [ python classify.py ]
+   [python classify.py]
 
