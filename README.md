@@ -5,10 +5,11 @@
   
 ## Development Steps
   
-* Take the data from hepsiburada.com
+* Collect the data from hepsiburada.com 
 * Normalization 
-* Label positive and negative comments
-* Use NLTK tool
+* Tag positive and negative comments
+* Training
+* Testing
 * Suggest the best brand
 
 ## Requirements 
