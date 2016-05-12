@@ -12,8 +12,10 @@
 * Testing
 * Suggest the best brand
 
-## Requirements 
-   NLTK
+## Requirements
+   Python 
+   Weka
+  
 ## Run
    python classify.py
 
