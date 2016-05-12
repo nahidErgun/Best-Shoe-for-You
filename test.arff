@@ -1,0 +1,20 @@
+@RELATION tests
+
+@ATTRIBUTE comment STRING
+@ATTRIBUTE class {negative,positive}
+
+@DATA
+'gayet güzel gözüküyor',?
+'muhteşem bir ürün rahat ve şik fiyatina göre çok iyi',?
+'ayakkabi güzel ve şik ayni zamanda çok daha fazla rahat',?  
+'ilk defa bu marka giyirorum  buna rağmen çok memnun kaldım  tavsiye edebileceğim bir ayakkabi',?  
+'her bir kuruş için değer teşekkürler hepsiburada  ',?
+'çok beğendim  ayaği sarip destekliyor çok sağlam',?
+'büyük beklenti içinde olmamak lazim   yapiştirici madde dişari taşmiş  görüntü açisindan ayakkabiyi çok basit ve ucuz göstermiş',?
+'küçük  bir islak alanda dahi alttan su alabilir ',?
+'kalip dar olduğu için 1 numara büyük sipariş etmelisiniz',?
+'38 normalde giyen  38 almasin 39 alsin',?
+'ayakkabı gerçekten çok kötü kalıbı çok dar verdiğiniz paraya degmez',?
+'ayakkabı inanılmaz güzel harika tesekkurler hepsiburada',?
+'kalıpları dar ve ayakkabı alttan su alabilir',?
+'ufacık  bir islak alanda dahi alttan su alabilir ',?
