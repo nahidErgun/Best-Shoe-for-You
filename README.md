@@ -7,9 +7,8 @@
   
 * Collect the data from hepsiburada.com 
 * Normalization 
-* Tag positive and negative comments
-* Training
-* Testing
+* Tag with positive and negative comments
+* Test results
 * Suggest the best brand
 
 ## Requirements
