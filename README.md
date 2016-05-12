@@ -13,8 +13,10 @@
 * Suggest the best brand
 
 ## Requirements
-   Python 
-   Weka
+
+1. [Scrapy] (http://doc.scrapy.org/en/latest/intro/tutorial.html)
+2. [Weka] (http://www.cs.waikato.ac.nz/ml/weka/)
+
   
 ## Run
    python classify.py
